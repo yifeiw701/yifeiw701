@@ -2,7 +2,7 @@
 
 ## A third-year CS and Statistics student at McGill University
 
-I am passionate about full-stack development, Robotics and I am experienced in many programming languages. I love street photography, exploring new places...I also enjoy unwinding with a good movie after a long day of coding😊
+I am passionate about full-stack development, Data Analysis, Ml and Robotics, and I am experienced in Typescript, Jave, Python, C and many other programming languages. I love street photography, exploring new places...I also enjoy unwinding with a good movie after a long day of coding😊
 
 - 🔭 I’m currently working on an AI tag generator project
 
